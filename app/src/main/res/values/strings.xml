@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SToken</string>
+    <string name="thank_you">Thank You</string>
+    <string name="noInternet">No internet connection. Please connect to internet.</string>
+</resources>

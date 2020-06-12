@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949600557190",
+    "firebase_url": "https://stoken-beta.firebaseio.com",
+    "project_id": "stoken-beta",
+    "storage_bucket": "stoken-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949600557190:android:5017742381c5c8a118d907",
+        "android_client_info": {
+          "package_name": "com.stoken.stoken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949600557190-dh195l1c8vl980t3625lmo4hu2panbkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrfv6MTyxYYP7LMwCnz0uqJsgFoH-Pmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949600557190-dh195l1c8vl980t3625lmo4hu2panbkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
